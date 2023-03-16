@@ -1,2 +1,2 @@
 # Games
-Na ovom repozitoriju nalaze igrice: TicTacToe, Snake, Pong, Rock Paper Scissors.
+Na ovom repozitoriju nalaze se igrice: TicTacToe, Snake, Pong, Rock Paper Scissors.
